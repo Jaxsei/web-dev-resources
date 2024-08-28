@@ -211,6 +211,9 @@ This is a complete web development resource you need to build your next project.
 - [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
 - [CSS Shadow Generator](https://brumm.af/shadows) - Make a smooth shadow.
 - [Haikei](https://haikei.app) - Generate unique SVG design assets.
+- [CSS GEMS](https://css-generators.com/) - tons of css generators.
+- [Shadow pallete gen](https://www.joshwcomeau.com/shadow-palette/) - better shadow gen.
+- 
 - [transform](https://transform.tools) - Transform | A polyglot web converter.
 - [Perflink | JS Benchmarks](https://perf.link) - JavaScript performance benchmarks you can share via URL.
 - [Optimizeimages](https://www.optimizeimages.com) - Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
